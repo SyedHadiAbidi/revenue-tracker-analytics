@@ -9,4 +9,6 @@ Follow these steps to get the Revenue Tracker set up on your local machine.
 **1. Clone the Repository**
 Begin by cloning the project repository to your local machine:
 ```bash
-git clone [https://github.com/](https://github.com/)<YOUR-USERNAME>/revenue-tracker-analytics.git
+git clone [https://github.com/SyedHadiAbidi/revenue-tracker-analytics.git](https://github.com/SyedHadiAbidi/revenue-tracker-analytics.git)
+
+![Dashboard Preview](./dashboard-preview.png)
