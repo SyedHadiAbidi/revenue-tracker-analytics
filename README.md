@@ -1,6 +1,6 @@
 # Revenue Tracker Analytics
 
-![Dashboard Preview](./dashboard-preview.png)
+![Dashboard Preview](./database_schema.png.png)
 
 This programme aims to allow companies to evaluate and analyse their revenue per product and per store, providing data-driven insights to inform their advertising and production choices.
 
