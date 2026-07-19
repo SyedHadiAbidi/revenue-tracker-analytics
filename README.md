@@ -1,26 +1,12 @@
-# Revenue Tracker
-This program aims to allow companies to evaluate their revenue per product and per store to inform their advertising and production choices.
+# Revenue Tracker Analytics
 
-# Getting Started
-Follow these simple steps to get started with the Revenue Tracker Project:
+This programme aims to allow companies to evaluate and analyse their revenue per product and per store, providing data-driven insights to inform their advertising and production choices.
 
-Clone the Repository: Begin by cloning the project repository to your local machine using the following command:
+## Getting Started
 
-$ git clone git@github.com:jatwitmyer/revenue-tracker.git
+Follow these steps to get the Revenue Tracker set up on your local machine.
 
-
-open a Terminal and type the following in order:
-
-# Running the Server
-1. $ pipenv install && pipenv shell --- this command is to create the virtual environment
-2. $ cd server
-3. $ export FLASK_APP=app.py
-4. $ python app.py --- to get the program started once in the shell environment
-5. Open a second terminal and cd out of server into the revenue-tracker directory
-
-# Running the Client
-1. $ cd client
-2. $ npm install
-3. $ npm start
-
-# Thank you!!
+**1. Clone the Repository**
+Begin by cloning the project repository to your local machine:
+```bash
+git clone [https://github.com/](https://github.com/)<YOUR-USERNAME>/revenue-tracker-analytics.git
